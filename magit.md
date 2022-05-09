@@ -1,4 +1,3 @@
 # Practicing Magit
 
-
-
+Arcu felis, bibendum ut tristique et, egestas quis ipsum. Augue lacus, viverra vitae congue eu, consequat ac felis donec et odio pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus faucibus scelerisque. Vivamus arcu felis, bibendum ut tristique et, egestas quis ipsum suspendisse ultrices gravida dictum fusce ut placerat orci nulla pellentesque dignissim enim, sit amet venenatis urna? Amet venenatis urna cursus eget nunc scelerisque viverra mauris, in aliquam sem fringilla ut morbi tincidunt augue interdum velit euismod in pellentesque massa. Amet nisl purus, in mollis nunc sed id semper risus in hendrerit gravida rutrum quisque non tellus orci, ac.
